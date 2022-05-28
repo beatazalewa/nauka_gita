@@ -40,3 +40,7 @@ touch README.md
 # repozytorium
 atom .
 nano README.md
+
+git remote add origin https://github.com/beatazalewa/nauka_gita.git
+git branch -M main
+git push -u origin main
