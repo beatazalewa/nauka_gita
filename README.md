@@ -44,3 +44,11 @@ nano README.md
 git remote add origin https://github.com/beatazalewa/nauka_gita.git
 git branch -M main
 git push -u origin main
+
+git config --global credential.helper store
+Now, git will remember your token.
+
+If you want to disable the helper, run the following commands:
+
+git config --global --unset credential.helper
+rm ~/.git-credentials
