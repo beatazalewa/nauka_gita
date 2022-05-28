@@ -53,4 +53,8 @@ git config --global credential.helper store
 git config --global --unset credential.helper
 rm ~/.git-credentials
 
+<<<<<<< HEAD
 Z nowego branch
+=======
+#Mozemy tez projekt sklonować.
+>>>>>>> b213cb09d05e11dcb71691b92096f743d69309a7
