@@ -52,3 +52,5 @@ git config --global credential.helper store
 
 git config --global --unset credential.helper
 rm ~/.git-credentials
+
+#Mozemy tez projekt sklonować.
